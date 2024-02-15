@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FK8YpGKD9P8/MY04NafKs4gnot1SQJ53LLHPOkWj7j4bewzSK+y1mNNfhnBnxy3f9MoNCIqLYPWeYF4fsHCNQ==",
+  "success": true,
+  "projectFilePath": "G:\\Payment\\Razorpay-Payment-Gateway-in-ASPNET-Core\\Razorpay.Integration\\Razorpay.Integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pawan Maurya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Pawan Maurya\\.nuget\\packages\\razorpay.core\\1.0.2\\razorpay.core.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
